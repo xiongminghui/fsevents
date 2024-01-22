@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/fsnotify/fsevents"
+	"github.com/xiongminghui/fsevents"
 )
 
 func main() {
